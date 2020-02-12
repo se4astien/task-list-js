@@ -1,6 +1,16 @@
-# task-list-js
+# Task List JavaScript
 
-Create task list with JavaScript.
-Use Materialize CSS for the design.
+Create a task list with JavaScript.
 
-You can add a task, remove, clear all tasks and save into local storage.
+Project build with pure JavaScript (No frameworks or libraries).
+Use Materialize CSS for the front.
+
+You can :
+-> Add a task
+-> Remove a task
+-> Clear all tasks 
+-> Save all events into Local Storage
+
+## Deployment
+
+Project deploy here : https://task-list-js.netlify.com/
