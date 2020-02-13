@@ -1,4 +1,4 @@
-# Task List JavaScript
+# Task List JavaScript With Local Storage
 
 Create a task list with JavaScript.
 
