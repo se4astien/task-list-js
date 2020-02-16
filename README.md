@@ -2,6 +2,8 @@
 
 Create a task list with JavaScript.
 
+Manipulate the DOM.
+
 Project build with pure JavaScript (No frameworks or libraries). 
 
 Use Materialize CSS for the front.
