@@ -2,7 +2,7 @@
 
 Create a task list with JavaScript.
 
-Manipulate the DOM.
+Manipulate the DOM (Document Object Model).
 
 Project build with pure JavaScript (No frameworks or libraries). 
 
